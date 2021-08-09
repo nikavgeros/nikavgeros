@@ -18,7 +18,7 @@
 </ul>
 
 ### Connect with me:
-
+<href = https://www.linkedin.com/in/nikos-avgeros-a65472141/>
 <!--
 **nikavgeros/nikavgeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
