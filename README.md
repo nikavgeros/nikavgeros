@@ -1,6 +1,7 @@
 ### Welcome, I'm Nikos Avgeros 👋
 <ul>
-	<li><strong>University of Piraeus</strong> MSc Advanced Information Systems</li>
+	<li>&#x1F393;<strong>University of Piraeus</strong> MSc Advanced Information Systems [Oct 2016 - Jun 2020]</li>
+	<li>&#x1F393;<strong>Open University of Cyprus</strong> BSc Business Administration [Oct 2020 - Feb 2022]</li>
 </ul>
 <!--
 **nikavgeros/nikavgeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
