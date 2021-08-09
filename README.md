@@ -16,8 +16,7 @@
 	<li>&#x1F4CB; <strong>Weather Forecast using Java</li>
 	<li>&#x1F4CB; <strong>Database System using MSSQL Server and Java</li>
 </ul>
-### Connect with me:
-<href=https://www.linkedin.com/in/nikos-avgeros-a65472141/>
+
 <!--
 **nikavgeros/nikavgeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
