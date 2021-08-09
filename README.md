@@ -7,14 +7,13 @@
 
 ### Experience:
 <ul>
-	<li>&#x1F393; <strong>University of Piraeus</strong> MSc Advanced Information Systems [Oct 2016 - Jun 2020]</li>
-	<li>&#x1F393; <strong>Open University of Cyprus</strong> BSc Business Administration [Oct 2020 - Feb 2022]</li>
+	<li>&#x1F4BC; <strong>SQL Developer/Business Consultant</strong> at CGSoft [Apr 2021 - Present]</li>
 </ul>
 
 ### Projects:
 <ul>
-	<li>&#x1F393; <strong>University of Piraeus</strong> MSc Advanced Information Systems [Oct 2016 - Jun 2020]</li>
-	<li>&#x1F393; <strong>Open University of Cyprus</strong> BSc Business Administration [Oct 2020 - Feb 2022]</li>
+	<li>&#x1F393; <strong>Age, Gender & Emotions Recognition with CNNs from videos, images and Realtime</strong></li>
+	<li>&#x1F393; <strong>Weather Forecast with JAVA</li>
 </ul>
 <!--
 **nikavgeros/nikavgeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
