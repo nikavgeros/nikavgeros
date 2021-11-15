@@ -7,11 +7,13 @@
 
 ### Experience:
 <ul>
-	<li>&#x1F4BC; <strong>SQL Developer/Business Consultant</strong> at CGSoft [Apr 2021 - Present]</li>
+	<li>&#x1F4BC; <strong>Data Analyst/Data Scientist</strong> at Grant Thornton [Apr 2021 - Nov 2021]</li>
+	<li>&#x1F4BC; <strong>SQL Developer/Business Consultant</strong> at CGSoft [Apr 2021 - Oct 2021]</li>
 </ul>
 
 ### Latest Projects:
 <ul>
+	<li>&#x1F4CB; <strong>Predicting stock markets using complex Artifiacial Neural Networks</strong></li>
 	<li>&#x1F4CB; <strong>Age, Gender & Emotions Recognition with CNNs from videos, images and Realtime using Python</strong></li>
 	<li>&#x1F4CB; <strong>Weather Forecast using Java</li>
 	<li>&#x1F4CB; <strong>Database System using MSSQL Server and Java</li>
