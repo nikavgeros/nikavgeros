@@ -13,7 +13,7 @@
 
 ### Latest Projects:
 <ul>
-	<li>&#x1F4CB; <strong>Predicting stock markets using complex Artificial Neural Networks</strong></li>
+	<li>&#x1F4CB; <strong>Predicting stock markets using complex Artificial Neural Networks with Python</strong></li>
 	<li>&#x1F4CB; <strong>Age, Gender & Emotions Recognition with CNNs from videos, images and Realtime using Python</strong></li>
 	<li>&#x1F4CB; <strong>Weather Forecast with Java</li>
 	<li>&#x1F4CB; <strong>Database System using MSSQL Server and Java</li>
