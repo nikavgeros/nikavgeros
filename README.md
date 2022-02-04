@@ -7,8 +7,8 @@
 
 ### Experience:
 <ul>
-	<li>&#x1F4BC; <strong>Data Analyst/Data Scientist</strong> at Grant Thornton [Nov 2021 - Present]</li>
-	<li>&#x1F4BC; <strong>SQL Developer/</strong> at CGSoft [Apr 2021 - Oct 2021]</li>
+	<li>&#x1F4BC; <strong>Data Analyst / Data Scientist</strong> at Grant Thornton [Nov 2021 - Present]</li>
+	<li>&#x1F4BC; <strong>SQL Developer</strong> at CGSoft [Apr 2021 - Oct 2021]</li>
 </ul>
 
 ### Latest Projects:
