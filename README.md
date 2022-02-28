@@ -20,7 +20,7 @@
 </ul>
 
 ### Connect with me:
-https://www.linkedin.com/in/nikos-avgeros-a65472141/
+https://www.linkedin.com/in/nikos-avgeros/
 <!--
 **nikavgeros/nikavgeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
