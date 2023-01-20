@@ -17,7 +17,7 @@
 <ul>
 	<li>&#x1F4CB; <strong>Dj-Studio:</strong> Web application for downloading videos and audio tracks from Youtube</li>
 	<li>&#x1F4CB; <strong>Data Science Projects:</strong> Collection of various projects that showcase various skills and techniques in data analysis, data mining and modeling</li>
-	<li>&#x1F4CB; <strong>Stock Prices Forecasting App:</strong> Web application for providing financial information for stocks and predicting closing prices using Deep Neural Networks</li>
+	<li>&#x1F4CB; <strong>Stock Price Forecast:</strong> Web application for providing financial information for stocks and predicting closing prices using Deep Neural Networks</li>
 	<li>&#x1F4CB; <strong>Google Books Finder:</strong> Desktop application for searching and retrieving books from Google</li>
 </ul>
 
