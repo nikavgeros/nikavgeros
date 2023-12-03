@@ -21,17 +21,17 @@
      - Courses: Machine Learning, Linear Algebra, Probabilities & Statistics
      - Tools: Python, R, SageMath
 
-   - **BSc Business Administration**  
-     - *Open University of Cyprus, Cyprus*  
-     - *2016-2020*
-     - Courses: Banking, Finance, Accounting, Probabilities & Statistics, Leadership, Marketing
-
    - **MSc Advanced Information Systems**  
      - *University of Piraeus, Greece*  
      - *2020-2022*  
      - Courses: Python (OOP, Machine Learning, Deep Learning), JavaScript, Node.js, React, Bootstrap, HTML, CSS, Java (Spring Boot, Hibernate, OOP, MVC)  
      - Databases: MS SQL Server, MySQL, MongoDB, PostgreSQL
 
+   - **BSc Business Administration**  
+     - *Open University of Cyprus, Cyprus*  
+     - *2016-2020*
+     - Courses: Banking, Finance, Accounting, Probabilities & Statistics, Leadership, Marketing
+       
 🌟 **Key Achievements:**
    - Improved forecasting accuracy for critical infrastructures.
    - Optimized ETL processes for enhanced operational efficiency.
