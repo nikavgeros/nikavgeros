@@ -1,44 +1,42 @@
-## Welcome, I'm Nikos Avgeros 👋
-### Education:
-<ul>
-	<li>&#x1F393; <strong>Hellenic Open University</strong> - MSc Data Science and Machine Learning [Sep 2022 - Jun 2024]</li>
-	<li>&#x1F393; <strong>University of Piraeus</strong> - MSc Advanced Information Systems [Oct 2020 - Feb 2022]</li>
-	<li>&#x1F393; <strong>Open University of Cyprus</strong> - BSc Business Administration [Oct 2016 - Jun 2020]</li>
-</ul>
+🚀 **Full Stack ML Engineer | Data Enthusiast | ETL Specialist**
 
-### Experience:
-<ul>
-	<li>&#x1F4BC; <strong>ML Engineer</strong> at Squaredev | AI Systems [Oct 2023 - Present]</li>
-	<li>&#x1F4BC; <strong>Data Engineer</strong> at Deloitte [Jan 2023 - Oct 2023]</li>
-	<li>&#x1F4BC; <strong>Data Engineer / Software Engineer</strong> at Grant Thornton [Nov 2021 - Dec 2022]</li>
-	<li>&#x1F4BC; <strong>SQL Developer / Consultant</strong> at CGSoft [Apr 2021 - Oct 2021]</li>
-</ul>
+👋 Hello, I'm Nikos Avgeros, a seasoned Full Stack Machine Learning Engineer, and Data Engineer based in Greece. Currently shaping the future at Squaredev, contributing to the EU SUNRISE project with cutting-edge time series prediction models for critical infrastructures in the water and health sectors.
 
-### Latest Projects:
-<ul>
-	<li>&#x1F4CB; <strong>Dj-Studio:</strong> A user-friendly web application that allows you to effortlessly download both video and audio content from YouTube. With its intuitive interface and fast processing, you can save your favorite YouTube media 
-                                                  for offline enjoyment. Enjoy high-quality downloads without hassle, anytime, anywhere.</li>
-	<li>&#x1F4CB; <strong>Data Science Projects:</strong> A collection is a dynamic showcase of advanced skills and techniques in the field of data analysis, data mining, and modeling. Explore a variety of real-world projects that harness the 
-                                                              power of data to solve complex problems, uncover valuable insights, and make data-driven decisions.</li>
-	<li>&#x1F4CB; <strong>Stock Price Forecast:</strong> Your gateway to comprehensive financial information and intelligent stock price predictions. The web application provides in-depth insights into stock performance, coupled with state- 
-                                                              of-the-art Deep Neural Networks for predicting closing prices. Make informed investment decisions with our powerful tools.</li>
-	<li>&#x1F4CB; <strong>Google Books Finder:</strong> A sleek desktop application designed to make book discovery and retrieval from Google a breeze. Seamlessly search and retrieve books from Google's vast library with a user-friendly 
-                                                            interface. Whether you're a scholar, researcher, or avid reader, this application simplifies your quest for knowledge and literary enjoyment.</li>
-</ul>
+🔧 **Tech Toolbox:**
+   - **Languages:** Python, SQL, JavaScript
+   - **Machine Learning:** Nbeats, NHits, NN, SARIMAX, MLflow, NLP, LLM
+   - **Web Development:** FASTAPI, React
+   - **Database:** Elastic Search, PostgreSQL, MS SQL Server, IBM DB2
+   - **ETL:** Extract, Transform, Load processes
 
-### Connect with me:
-https://www.linkedin.com/in/nikos-avgeros/
-<!--
-**nikavgeros/nikavgeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Experience:**
+   - **Squaredev:** Building and training diverse time series prediction models, incorporating COVID and weather data. Designing an efficient backend infrastructure using FASTAPI, MLflow, and Elastic Search.
+   - **Deloitte:** Orchestrating robust ETL processes with a focus on data quality. Collaborating with banking domain experts for precise data solutions.
+   - **Grant Thornton:** Applying NLP techniques for topic modeling, optimizing sentiment analysis algorithms, and contributing to an enhanced user experience. Conducting web scraping and data analytics projects.
 
-Here are some ideas to get you started:
+📚 **Education:**
+   - [Your University Name, Degree Earned, Graduation Year]
+   - **MSc Data Science and Machine Learning**
+     - *Hellenic Open University, Greece*
+     - *2022-Present*
+     - Courses: Machine Learning, Linear Algebra, Probabilities & Statistics
+     - Tools: Python, R, SageMath
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - **BSc Business Administration**  
+     - *Open University of Cyprus, Cyprus*  
+     - *2016-2020*
+     - Courses: Banking, Finance, Accounting, Probabilities & Statistics, Leadership, Marketing
+
+   - **MSc Advanced Information Systems**  
+     - *University of Piraeus, Greece*  
+     - *2020-2022*  
+     - Courses: Python (OOP, Machine Learning, Deep Learning), JavaScript, Node.js, React, Bootstrap, HTML, CSS, Java (Spring Boot, Hibernate, OOP, MVC)  
+     - Databases: MS SQL Server, MySQL, MongoDB, PostgreSQL
+
+🌟 **Key Achievements:**
+   - Improved forecasting accuracy for critical infrastructures.
+   - Optimized ETL processes for enhanced operational efficiency.
+   - Enhanced user experience through NLP and sentiment analysis.
+
+🔗 **Connect with Me:**
+   - [LinkedIn](https://www.linkedin.com/in/nikos-avgeros/)
