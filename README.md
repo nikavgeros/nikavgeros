@@ -15,7 +15,6 @@
    - **Grant Thornton:** Applying NLP techniques for topic modeling, optimizing sentiment analysis algorithms, and contributing to an enhanced user experience. Conducting web scraping and data analytics projects.
 
 📚 **Education:**
-   - [Your University Name, Degree Earned, Graduation Year]
    - **MSc Data Science and Machine Learning**
      - *Hellenic Open University, Greece*
      - *2022-Present*
