@@ -17,20 +17,18 @@
 📚 **Education:**
    - **MSc Data Science and Machine Learning**
      - *Hellenic Open University, Greece*
-     - *2022-Present*
-     - Courses: Machine Learning, Linear Algebra, Probabilities & Statistics
-     - Tools: Python, R, SageMath
+     - *2022-2024*
+     - Programming Languages: Python, R, SageMath
 
    - **MSc Advanced Information Systems**  
      - *University of Piraeus, Greece*  
      - *2020-2022*  
-     - Courses: Python (OOP, Machine Learning, Deep Learning), JavaScript, Node.js, React, Bootstrap, HTML, CSS, Java (Spring Boot, Hibernate, OOP, MVC)  
+     - Programming Languages: Python (OOP, Machine Learning, Deep Learning), JavaScript, Node.js, React, Bootstrap, HTML, CSS, Java (Spring Boot, Hibernate, OOP, MVC)  
      - Databases: MS SQL Server, MySQL, MongoDB, PostgreSQL
 
    - **BSc Business Administration**  
      - *Open University of Cyprus, Cyprus*  
      - *2016-2020*
-     - Courses: Banking, Finance, Accounting, Probabilities & Statistics, Leadership, Marketing
        
 🌟 **Key Achievements:**
    - Improved forecasting accuracy for critical infrastructures.
