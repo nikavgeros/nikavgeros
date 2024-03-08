@@ -5,7 +5,7 @@
 🔧 **Tech Toolbox:**
    - **Languages:** Python, SQL, JavaScript
    - **Machine Learning:** Nbeats, NHits, NN, SARIMAX, MLflow, NLP, LLM
-   - **FullStack Development:** FASTAPI, React
+   - **FullStack Development:** FastAPI, React
    - **Database:** Elastic Search, PostgreSQL, MS SQL Server, IBM DB2
    - **ETL:** Extract, Transform, Load processes
 
