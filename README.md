@@ -3,9 +3,9 @@
 👋 Hello, I'm Nikos Avgeros, an experienced Software Developer in Artificial Intelligence with a proven working experience of 3 years in software as well as Machine Learning. An extrovert developer who enjoys creating applications through Python, Java, SQL, and Langchain and well-grounded in Object-Oriented languages. Passionate towards new technologies and driven towards developing efficient and robust IT architectures especially in the field of Machine Learning and Artificial intelligence. Optimistic and continuously learning on ongoing innovation in software solving development and AI with hands-on experience in data processing utilizing Apache Airflow, PySpark, and ETL alongside software utilization of FastAPI, Django, Docker, Kubernetes, Git, MLflow and Elastic Search.
 
 🔧 **Tech Toolbox:**
-   - **Languages:** Python, SQL, JavaScript
+   - **Languages:** Python, SQL, JavaScript, Java, Flutter
    - **Machine Learning:** Nbeats, NHits, NN, SARIMAX, MLflow, NLP, LLM
-   - **FullStack Development:** FastAPI, React
+   - **FullStack Development:** FastAPI, Django, React, React Native, Spring Boot
    - **Database:** Elastic Search, PostgreSQL, MS SQL Server, IBM DB2
    - **ETL:** Extract, Transform, Load processes
 
