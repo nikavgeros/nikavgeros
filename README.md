@@ -1,6 +1,6 @@
 🚀 **Full Stack ML Engineer | Data Enthusiast | ETL Specialist**
 
-👋 Hello, I'm Nikos Avgeros, a seasoned Full Stack Machine Learning Engineer, and Data Engineer based in Greece. Currently shaping the future at Squaredev, contributing to the EU SUNRISE project with cutting-edge time series prediction models for critical infrastructures in the water and health sectors.
+👋 Hello, I'm Nikos Avgeros, an experienced Software Developer in Artificial Intelligence with a proven working experience of 3 years in software as well as Machine Learning. An extrovert developer who enjoys creating applications through Python, Java, SQL, and Langchain and well-grounded in Object-Oriented languages. Passionate towards new technologies and driven towards developing efficient and robust IT architectures especially in the field of Machine Learning and Artificial intelligence. Optimistic and continuously learning on ongoing innovation in software solving development and AI with hands-on experience in data processing utilizing Apache Airflow, PySpark, and ETL alongside software utilization of FastAPI, Django, Docker, Kubernetes, Git, MLflow and Elastic Search.
 
 🔧 **Tech Toolbox:**
    - **Languages:** Python, SQL, JavaScript
