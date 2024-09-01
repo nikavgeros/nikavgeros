@@ -10,7 +10,7 @@
    - **ETL:** Extract, Transform, Load processes
 
 🌐 **Experience:**
-   - **Squaredev:** Building and training diverse time series prediction models, incorporating COVID-19 and weather data. Designing an efficient backend infrastructure using FastAPI, MLflow, and Elastic Search.
+   - **SquareDev:** Building and training diverse time series prediction models, incorporating COVID-19 and weather data. Designing an efficient backend infrastructure using FastAPI, MLflow, and Elastic Search.
    - **Deloitte:** Orchestrating robust ETL processes with a focus on data quality. Collaborating with banking domain experts for precise data solutions.
    - **Grant Thornton:** Applying NLP techniques for topic modeling, optimizing sentiment analysis algorithms, and contributing to an enhanced user experience. Conducting web scraping and data analytics projects.
 
